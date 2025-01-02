@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\dev\\Pagamento_Angular\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|c:\\users\\user\\dev\\pagamento_angular\\pagamento_angular\\businesslogic\\pagamentodetailbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|solutionrelative:pagamento_angular\\businesslogic\\pagamentodetailbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|c:\\users\\user\\dev\\pagamento_angular\\pagamento_angular\\businesslogic\\ipagamentodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|solutionrelative:pagamento_angular\\businesslogic\\ipagamentodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|c:\\users\\user\\dev\\pagamento_angular\\pagamento_angular\\models\\pagamentodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|solutionrelative:pagamento_angular\\models\\pagamentodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|c:\\users\\user\\dev\\pagamento_angular\\pagamento_angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|solutionrelative:pagamento_angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|c:\\users\\user\\dev\\pagamento_angular\\pagamento_angular\\businesslogic\\pagamentodetailbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|solutionrelative:pagamento_angular\\businesslogic\\pagamentodetailbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|c:\\users\\user\\dev\\pagamento_angular\\pagamento_angular\\businesslogic\\ipagamentodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|solutionrelative:pagamento_angular\\businesslogic\\ipagamentodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAE9BFEA-D5EA-4788-BE4A-8493A5E15CBA}|Pagamento_Angular\\Pagamento_Angular.csproj|c:\\users\\user\\dev\\pagamento_angular\\pagamento_angular\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "IPagamentoDetail.cs",
               "DocumentMoniker": "C:\\Users\\user\\dev\\Pagamento_Angular\\Pagamento_Angular\\BusinessLogic\\IPagamentoDetail.cs",
               "RelativeDocumentMoniker": "Pagamento_Angular\\BusinessLogic\\IPagamentoDetail.cs",
@@ -54,24 +62,25 @@
               "RelativeToolTip": "Pagamento_Angular\\BusinessLogic\\IPagamentoDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T15:34:22.874Z"
+              "WhenOpened": "2024-12-29T15:34:22.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PagamentoDetailBll.cs",
               "DocumentMoniker": "C:\\Users\\user\\dev\\Pagamento_Angular\\Pagamento_Angular\\BusinessLogic\\PagamentoDetailBll.cs",
               "RelativeDocumentMoniker": "Pagamento_Angular\\BusinessLogic\\PagamentoDetailBll.cs",
               "ToolTip": "C:\\Users\\user\\dev\\Pagamento_Angular\\Pagamento_Angular\\BusinessLogic\\PagamentoDetailBll.cs",
               "RelativeToolTip": "Pagamento_Angular\\BusinessLogic\\PagamentoDetailBll.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCAAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T15:33:12.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PagamentoDetailController.cs",
               "DocumentMoniker": "C:\\Users\\user\\dev\\Pagamento_Angular\\Pagamento_Angular\\Controllers\\PagamentoDetailController.cs",
               "RelativeDocumentMoniker": "Pagamento_Angular\\Controllers\\PagamentoDetailController.cs",
@@ -108,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\dev\\Pagamento_Angular\\Pagamento_Angular\\Program.cs",
               "RelativeDocumentMoniker": "Pagamento_Angular\\Program.cs",
@@ -133,13 +142,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PagamentoDetail.cs",
               "DocumentMoniker": "C:\\Users\\user\\dev\\Pagamento_Angular\\Pagamento_Angular\\Models\\PagamentoDetail.cs",
               "RelativeDocumentMoniker": "Pagamento_Angular\\Models\\PagamentoDetail.cs",
               "ToolTip": "C:\\Users\\user\\dev\\Pagamento_Angular\\Pagamento_Angular\\Models\\PagamentoDetail.cs",
               "RelativeToolTip": "Pagamento_Angular\\Models\\PagamentoDetail.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T20:45:25.122Z",
               "EditorCaption": ""
