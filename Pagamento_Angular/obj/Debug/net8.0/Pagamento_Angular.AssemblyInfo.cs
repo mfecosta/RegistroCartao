@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pagamento_Angular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95b4f08adf76981665dce29c04d377b9ab2a5b5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pagamento_Angular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pagamento_Angular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

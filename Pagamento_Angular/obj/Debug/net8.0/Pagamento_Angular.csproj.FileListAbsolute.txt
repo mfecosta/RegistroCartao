@@ -286,3 +286,4 @@ C:\Users\user\dev\Pagamento_Angular\Pagamento_Angular\bin\Debug\net8.0\runtimes\
 C:\Users\user\dev\Pagamento_Angular\Pagamento_Angular\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\user\dev\Pagamento_Angular\Pagamento_Angular\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\user\dev\Pagamento_Angular\Pagamento_Angular\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\user\dev\Pagamento_Angular\Pagamento_Angular\obj\Debug\net8.0\Pagamento_Angular.sourcelink.json
