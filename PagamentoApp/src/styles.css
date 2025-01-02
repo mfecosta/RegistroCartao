@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+.mouse-hover{
+    cursor: pointer;
+}
+form label{
+    text-transform: uppercase;
+}
+
+form input{
+    font-weight: 500;
+}
+
+form input ::placeholder{
+color: #c0bdbd;
+font-weight: 300;
+}
+
+form.submitted input.ng-invalid{
+    border: red;
+}
+.scrollable-list {
+    max-height: 300px;
+    overflow-y: auto;
+    padding-right: 10px; /* Para evitar que o conteúdo seja sobreposto pela barra de rolagem */    
+    padding-right: 15px; /* Espaço extra para esconder a barra */
+    margin-right: -15px; /* Compensa o padding para o conteúdo alinhar corretamente */
+    scrollbar-width: none; /* Para Firefox */
+}

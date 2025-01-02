@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+<div class="bg-body-secondary text-center py-5 rounded-2">
+    <h1 class="display-6 fw-bold">Detalhe do registro do pagamento</h1>
+</div>
+
+<div class="row mt-5">
+    <div class="col-6">
+      <app-pagamento-detail-form />
+    </div>
+    <div class="col-6" >
+        <ul class="list-group scrollable-list" >
+            <li class="list-group-item d-flex justify-content-between
+            align-items-start mb-2 border px-4 py-3 rounded-3"
+            *ngFor="let pd of service.list">
+            <div class="flex-grow-1 mouse-hover" 
+            (click)="populateForm(pd)">
+            <div class="fw-bold">{{pd.nomeCartao }}</div>            
+            <div>{{pd.numeroCartao}}</div>
+            <div class="fw-bold">{{pd.dataExpiracao}}</div>    
+        </div>  
+        <span class="text-secondary">
+           <button>
+            <i class="fa-solid fa-trash-can color:fw-bold">Remover</i>
+        </button>
+        </span>               
+                
+            </li>
+        </ul>
+    </div>
+</div>
